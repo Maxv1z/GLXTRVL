@@ -24,7 +24,7 @@ const Form = () => {
     );
 
     e.target.reset();
-  };
+  };  
 
   return (
     <div className='form'>
